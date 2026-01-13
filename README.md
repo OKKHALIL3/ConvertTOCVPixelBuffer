@@ -18,7 +18,7 @@ To add `ConvertTOCVPixelBuffer` to your project:
 
 1. In Xcode, go to **File > Add Packages**.
 2. Paste the following repository URL into the search bar:  
-   `https://github.com/ODo56/ConvertTOCVPixelBuffer`
+   `https://github.com/OKKHALIL3/ConvertTOCVPixelBuffer`
 3. Select the package and click **Add Package**.
 
 ## Usage
